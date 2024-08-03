@@ -21,16 +21,12 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 #EXTINF:30,MTV Beats HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8
-#EXTINF:20,SONY YAY HINDI
-https://allinonereborn.in/allinone.php?id=34198
 #EXTINF:60,Nick HD+
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
 #EXTINF:30,Nick Junior
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
 #EXTINF:60,Sonic
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8
-#EXTINF:22,SONY WAH
-https://allinonereborn.in/allinone.php?id=46629
 #EXTINF:60,Colors HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
 #EXTINF:60,Colors Cineplex HD
@@ -51,7 +47,7 @@ https://epiconvh.s.llnwi.net/live/nazara/master_1080.m3u8
 https://epiconvh.s.llnwi.net/live/filamchi/master_1080.m3u8
 #EXTINF:60,showbox
 https://epiconvh.s.llnwi.net/live/showbox/master_1080.m3u8
-#EXTINF:35,playlist.m3u8
+#EXTINF:35,Shraddha
 https://mhlive.paramountinfosystem.com/mhoneshraddhatest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:30,Shemaroo TV
 https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemarootv
