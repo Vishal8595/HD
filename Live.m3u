@@ -1,0 +1,104 @@
+#EXTM3U
+#EXTINF:-1, SONY Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1, SONY PIX
+http://Watchindia.net:8880/live/98697/23119/2101.ts
+#EXTINF:-1, SONY UK
+http://watchindia.net:8880/live/65596/46234/2117.ts
+#EXTINF:-1, SONY MAX
+http://watchindia.net:8880/live/65596/46234/788.ts
+#EXTINF:-1, SONY SAB
+http://watchindia.net:8880/live/65596/46234/2323.ts
+#EXTINF:-1, SONY PAL
+http://watchindia.net:8880/live/65596/46234/812.ts
+#EXTINF:-1, SONY Yay
+http://watchindia.net:8880/live/65596/46234/2104.ts
+#EXTINF:-1 ,Hangama
+http://port.denver1769.in/Ply/tptv.php?id=11646
+#EXTINF:32,& Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+#EXTINF:32,Zing
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
+#EXTINF:32,&tv HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
+#EXTINF:32,ZEE Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF:32,Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+#EXTINF:32,Zeetv HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+#EXTINF:32,Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+#EXTINF:30,Rishtey
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
+#EXTINF:32,Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+#EXTINF:30,MTV Beats HD
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8
+#EXTINF:20,SONY YAY HINDI
+https://allinonereborn.in/allinone.php?id=34198
+#EXTINF:60,Nick HD+
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
+#EXTINF:30,Nick Junior
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
+#EXTINF:60,Sonic
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8
+#EXTINF:22,SONY WAH
+https://allinonereborn.in/allinone.php?id=46629
+#EXTINF:60,Colors HD
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
+#EXTINF:60,Colors Cineplex HD
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+#EXTINF:60,Colors Cineplex Bollywood
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+#EXTINF:30,SPORTS 18 HD
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
+#EXTINF:60,JC Sports 24x7
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
+#EXTINF:32,Zee Anmol
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
+#EXTINF:28,chunks.m3u8
+https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:40,Nazara
+https://epiconvh.s.llnwi.net/live/nazara/master_1080.m3u8
+#EXTINF:37,Filamchi
+https://epiconvh.s.llnwi.net/live/filamchi/master_1080.m3u8
+#EXTINF:60,showbox
+https://epiconvh.s.llnwi.net/live/showbox/master_1080.m3u8
+#EXTINF:35,playlist.m3u8
+https://mhlive.paramountinfosystem.com/mhoneshraddhatest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:30,Shemaroo TV
+https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemarootv
+#EXTINF:58,Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:32,9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:0,Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:40,DD News (1080p)
+https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
+#EXTINF:20,DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:32,Aastha (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8
+#EXTINF:0,Aastha Bhajan (480p)
+#EXTVLCOPT:http-referrer=Aasthatv.in
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8
+#EXTINF:23,Sadhna (720p)
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+#EXTINF:60,Sanskar TV (1080p)
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:60,Sony Kal (1080p)
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:60,9X Tashan
+https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+#EXTINF:18,E 24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#EXTINF:20,balleballetv
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:24,Desi Channel (720p)
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:60,Mastiii
+https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+#EXTINF:60,9X Jalwa
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
