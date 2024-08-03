@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:32,& Pictures HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 #EXTINF:-1, SONY Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1, SONY PIX
@@ -17,6 +15,8 @@ http://watchindia.net:8880/live/65596/46234/812.ts
 http://watchindia.net:8880/live/65596/46234/2104.ts
 #EXTINF:-1 ,Hangama
 http://port.denver1769.in/Ply/tptv.php?id=11646
+#EXTINF:32,& Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 #EXTINF:32,Zing
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 #EXTINF:32,&tv HD
