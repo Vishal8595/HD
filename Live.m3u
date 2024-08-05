@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:28,And Pictures
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/Andpictures1.m3u8
+#EXTINF:32,Zee Anmol Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
+#EXTINF:28,Zee Hindustan
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan1/default/Zeehindustan1.m3u8
+#EXTINF:0,Sony SAB
+https://jio.dinesh29.com.np/live/jio-universal/sony-sab/index.ts
+#EXTINF:0,B4U Movies
+https://jio.dinesh29.com.np/live/jio-universal/b4u-movies/index.ts
+#EXTINF:0,B4U Music
+https://jio.dinesh29.com.np/live/jio-universal/b4u-music/index.ts
+#EXTINF:0,CNN
+https://jio.dinesh29.com.np/live/jio-universal/cnn/index.ts
+#EXTINF:0,DD National
+https://jio.dinesh29.com.np/live/jio-universal/dd-national/index.ts
+#EXTINF:0,Sony Max SD
+https://jio.dinesh29.com.np/live/jio-universal/sony-max-sd/index.ts
+#EXTINF:0,SET HD
+https://jio.dinesh29.com.np/live/jio-universal/set-hd/index.ts
 #EXTINF:-1, SONY Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:32,& Pictures HD
@@ -84,3 +104,25 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlis
 https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:60,9X Jalwa
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+#EXTINF:0,DD News
+https://jio.dinesh29.com.np/live/jio-universal/dd-news/index.ts
+#EXTINF:0,DD Sports
+https://jio.dinesh29.com.np/live/jio-universal/dd-sports/index.ts
+#EXTINF:0,News 18 India
+https://jio.dinesh29.com.np/live/jio-universal/news-18-india/index.ts
+#EXTINF:0,News18 Lokmat
+https://jio.dinesh29.com.np/live/jio-universal/news18-lokmat/index.ts
+#EXTINF:0,India TV
+https://jio.dinesh29.com.np/live/jio-universal/india-tv/index.ts
+#EXTINF:0,Discovery
+https://jio.dinesh29.com.np/live/jio-universal/discovery/index.ts
+#EXTINF:0,NDTV 24x7
+https://jio.dinesh29.com.np/live/jio-universal/ndtv-24x7/index.ts
+#EXTINF:0,NDTV India
+https://jio.dinesh29.com.np/live/jio-universal/ndtv-india/index.ts
+#EXTINF:0,NDTV Profit
+https://jio.dinesh29.com.np/live/jio-universal/ndtv-profit/index.ts
+#EXTINF:0,Animal Planet HD World
+https://jio.dinesh29.com.np/live/jio-universal/animal-planet-hd-world/index.ts
+#EXTINF:0,Sanskar
+https://jio.dinesh29.com.np/live/jio-universal/sanskar/index.ts
