@@ -1,36 +1,2068 @@
 #EXTM3U
-#EXTINF:30,Shemaroo TV
-https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemarootv
-#EXTINF:58,Pogo
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:32,9XM (480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:0,Aaj Tak
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:40,DD News (1080p)
-https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
-#EXTINF:20,DD Sports (576p)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:32,Aastha (480p)
-https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8
-#EXTINF:0,Aastha Bhajan (480p)
-#EXTVLCOPT:http-referrer=Aasthatv.in
-https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8
-#EXTINF:23,Sadhna (720p)
-https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
-#EXTINF:60,Sanskar TV (1080p)
-https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
-#EXTINF:60,Sony Kal (1080p)
+#EXTINF:35, SET HD
+https://allinonereborn.com/sonyliv.m3u8?ch=SETHD&id=2011671
+#EXTINF:40, Sony SAB HD
+https://allinonereborn.com/sonyliv.m3u8?ch=SABHD&id=2011749
+#EXTINF:40, Sony PAL
+https://allinonereborn.com/sonyliv.m3u8?ch=SonyPalSD&id=2011741
+#EXTINF:0, Sony YAY
+https://allinonereborn.com/sonyliv.m3u8?ch=SonyYaySD&id=2011746
+#EXTINF:0, Sony AATH
+https://allinonereborn.com/sonyliv.m3u8?ch=SonyAathSD&id=2011641
+#EXTINF:0, Sony Marathi
+https://allinonereborn.com/sonyliv.m3u8?ch=SonyMarathi&id=2011740
+#EXTINF:0, Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:60,9X Tashan
-https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:18,E 24
-https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
-#EXTINF:20,balleballetv
-https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:24,Desi Channel (720p)
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:60,Mastiii
-https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
-#EXTINF:60,9X Jalwa
-https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+#EXTINF:0, Sony BBC Earth HD
+https://allinonereborn.com/sonyliv.m3u8?ch=SonyBBCEarthHD&id=2011907
+#EXTINF:0, Sony PIX HD
+https://allinonereborn.com/sonyliv.m3u8?ch=PIXHD&id=2011748
+#EXTINF:40, Sony WAH
+https://allinonereborn.com/sonyliv.m3u8?ch=SonyWah&id=2011906
+#EXTINF:0, Sony MAX
+https://allinonereborn.com/sonyliv.m3u8?ch=SonyMaxSD&id=2011745
+#EXTINF:0, Sony MAX HD
+https://allinonereborn.com/sonyliv.m3u8?ch=SonyMaxhd&id=2011670
+#EXTINF:0, Sony MAX2
+https://allinonereborn.com/sonyliv.m3u8?ch=MAX2&id=2011908
+#EXTINF:0, Sony TEN 1
+https://allinonereborn.com/sonyliv.m3u8?ch=TEN1SD&id=2011739
+#EXTINF:0, Sony TEN 2
+https://allinonereborn.com/sonyliv.m3u8?ch=TEN2SD&id=2020590
+#EXTINF:0, Sony TEN 3
+https://allinonereborn.com/sonyliv.m3u8?ch=TEN3SD&id=2020592
+#EXTINF:0, Sony TEN 4
+https://allinonereborn.com/sonyliv.m3u8?ch=TEN4SD&id=2020437
+#EXTINF:0, Sony TEN 5
+https://allinonereborn.com/sonyliv.m3u8?ch=SONYSIXSD&id=2020594
+#EXTINF:0, Sony TEN 1 HD
+https://allinonereborn.com/sonyliv.m3u8?ch=TEN1HD&id=2011747
+#EXTINF:0, Sony TEN 2 HD
+https://allinonereborn.com/sonyliv.m3u8?ch=TEN2HD&id=2020434
+#EXTINF:0, Sony TEN 3 HD
+https://allinonereborn.com/sonyliv.m3u8?ch=TEN3HD&id=2020591
+#EXTINF:0, Sony TEN 4 HD
+https://allinonereborn.com/sonyliv.m3u8?ch=ten4hd&id=2020589
+#EXTINF:40, Sony TEN 5 HD
+https://allinonereborn.com/sonyliv.m3u8?ch=SONYSIXHD&id=2020593
+#EXTINF:56,Colors HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_144.m3u8
+#EXTINF:56,Aaj Tak
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_173.m3u8
+#EXTINF:60,Aastha
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_175.m3u8
+#EXTINF:0,ABP News India
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_177.m3u8
+#EXTINF:0,Asianet News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_180.m3u8
+#EXTINF:0,B4U Movies
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_182.m3u8
+#EXTINF:0,B4U Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_183.m3u8
+#EXTINF:0,CNBC Awaaz
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_190.m3u8
+#EXTINF:0,CNN
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_193.m3u8
+#EXTINF:0,Colors Gujarati
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_196.m3u8
+#EXTINF:0,Colors Oriya
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_198.m3u8
+#EXTINF:0,DD National
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_202.m3u8
+#EXTINF:0,DD News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_203.m3u8
+#EXTINF:0,DD Sports
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_204.m3u8
+#EXTINF:0,ET Now
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_212.m3u8
+#EXTINF:0,News 18 India
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_231.m3u8
+#EXTINF:0,News18 Lokmat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_232.m3u8
+#EXTINF:0,India TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_235.m3u8
+#EXTINF:0,Discovery
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_242.m3u8
+#EXTINF:0,MTV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_248.m3u8
+#EXTINF:0,Music India
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_250.m3u8
+#EXTINF:0,ETV Cinema
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_252.m3u8
+#EXTINF:0,NDTV 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_255.m3u8
+#EXTINF:0,NDTV India
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_258.m3u8
+#EXTINF:0,NDTV Profit
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_259.m3u8
+#EXTINF:60,Rishtey
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_279.m3u8
+#EXTINF:0,Animal Planet HD World
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_286.m3u8
+#EXTINF:0,Sanskar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_288.m3u8
+#EXTINF:60,PM e Vidya 01
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_400.m3u8
+#EXTINF:0,Swayam Prabha 19
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_401.m3u8
+#EXTINF:0,PM e Vidya 02
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_402.m3u8
+#EXTINF:0,Swayam Prabha 20
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_403.m3u8
+#EXTINF:0,PM e Vidya 07
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_404.m3u8
+#EXTINF:0,PM e Vidya 03
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_405.m3u8
+#EXTINF:0,PM e Vidya 04
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_406.m3u8
+#EXTINF:0,PM e Vidya 05
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_407.m3u8
+#EXTINF:0,PM e Vidya 06
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_408.m3u8
+#EXTINF:0,PM e Vidya 08
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_409.m3u8
+#EXTINF:0,PM e Vidya 09
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_410.m3u8
+#EXTINF:0,PM e Vidya 10
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_411.m3u8
+#EXTINF:60,Wion
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_412.m3u8
+#EXTINF:0,J Movies
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_417.m3u8
+#EXTINF:0,Jaya Plus
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_418.m3u8
+#EXTINF:0,Jaya TV HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_419.m3u8
+#EXTINF:0,Jaya Max
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_420.m3u8
+#EXTINF:0,GOA 365
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_421.m3u8
+#EXTINF:0,In Goa 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_422.m3u8
+#EXTINF:0,Colors Tamil HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_429.m3u8
+#EXTINF:0,9X Jalwa
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_440.m3u8
+#EXTINF:0,9x Jhakaas
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_441.m3u8
+#EXTINF:0,Zee 24 Taas
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_442.m3u8
+#EXTINF:0,Discovery HD World
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_463.m3u8
+#EXTINF:0,24 Ghanta TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_464.m3u8
+#EXTINF:0,Jaihind tv
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_465.m3u8
+#EXTINF:0,Arihant TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_466.m3u8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_479.m3u8
+#EXTINF:0,Epic
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_481.m3u8
+#EXTINF:0,Colors Cineplex
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_482.m3u8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_485.m3u8
+#EXTINF:0,Bhojpuri Cinema
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_486.m3u8
+#EXTINF:0,CNBC Tv 18
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_489.m3u8
+#EXTINF:0,CNBC Bazaar (MNO)
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_490.m3u8
+#EXTINF:0,Mirror Now
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_491.m3u8
+#EXTINF:0,CNN NEWS 18
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_492.m3u8
+#EXTINF:0,India Today
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_493.m3u8
+#EXTINF:0,AL Jazeera
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_494.m3u8
+#EXTINF:0,News X
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_495.m3u8
+#EXTINF:0,dw
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_496.m3u8
+#EXTINF:0,India news
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_498.m3u8
+#EXTINF:0,News Nation
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_499.m3u8
+#EXTINF:0,News 24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_501.m3u8
+#EXTINF:0,Good News Today
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_502.m3u8
+#EXTINF:0,IBC24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_503.m3u8
+#EXTINF:0,Zee News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_504.m3u8
+#EXTINF:0,Sahara Samay Rastriya
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_506.m3u8
+#EXTINF:0,SAHARA SAMAY MP
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_507.m3u8
+#EXTINF:0,SAHARA SAMAY UP
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_508.m3u8
+#EXTINF:0,Sahara Samay Bihar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_509.m3u8
+#EXTINF:0,VIP News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_510.m3u8
+#EXTINF:0,Mh One News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_511.m3u8
+#EXTINF:0,India News UP
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_512.m3u8
+#EXTINF:0,India News Rajasthan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_513.m3u8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_515.m3u8
+#EXTINF:0,India News Haryana
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_516.m3u8
+#EXTINF:0,Chardikla Time TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_517.m3u8
+#EXTINF:0,Sudarshan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_518.m3u8
+#EXTINF:0,Sadhna News Plus
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_519.m3u8
+#EXTINF:0,Sansad TV HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_520.m3u8
+#EXTINF:0,Sansad TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_522.m3u8
+#EXTINF:0,Ten 2
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_523.m3u8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_527.m3u8
+#EXTINF:0,DD India
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_528.m3u8
+#EXTINF:0,News18 MP
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_529.m3u8
+#EXTINF:0,News18 UP
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_530.m3u8
+#EXTINF:0,News18 RAJASTHAN
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_531.m3u8
+#EXTINF:0,Dabangg
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_532.m3u8
+#EXTINF:0,Raj Pariwar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_533.m3u8
+#EXTINF:0,Dhamaal TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_535.m3u8
+#EXTINF:0,DD Madhya Pradesh
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_536.m3u8
+#EXTINF:0,DD Rajasthan (Jaipur)
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_538.m3u8
+#EXTINF:0,DD Bihar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_539.m3u8
+#EXTINF:0,DD Uttar Pradesh
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_540.m3u8
+#EXTINF:0,Discovery Turbo
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_541.m3u8
+#EXTINF:0,Pogo Tamil
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_542.m3u8
+#EXTINF:0,Nick Telugu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_543.m3u8
+#EXTINF:0,Nick Junior
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_544.m3u8
+#EXTINF:0,Nick Hindi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_545.m3u8
+#EXTINF:0,Nick Tamil
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_546.m3u8
+#EXTINF:0,Nickelodeon Jr.
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_548.m3u8
+#EXTINF:0,Discovery Kids Tamil
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_550.m3u8
+#EXTINF:0,TEST14 HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_551.m3u8
+#EXTINF:0,Discovery Kids 2
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_554.m3u8
+#EXTINF:0,Chintu TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_555.m3u8
+#EXTINF:0,Kochu TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_556.m3u8
+#EXTINF:0,Chutti TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_557.m3u8
+#EXTINF:0,Kushi TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_558.m3u8
+#EXTINF:0,Pogo Hindi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_559.m3u8
+#EXTINF:0,GOOD TiMES
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_560.m3u8
+#EXTINF:0,Food Food
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_561.m3u8
+#EXTINF:0,Travelxp HD Hindi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_562.m3u8
+#EXTINF:0,Kaumudy TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_563.m3u8
+#EXTINF:0,ETV Abhiruchi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_565.m3u8
+#EXTINF:0,Animal Planet Hindi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_566.m3u8
+#EXTINF:0,Animal Planet English
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_567.m3u8
+#EXTINF:0,Discovery Science
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_568.m3u8
+#EXTINF:0,D Tamil
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_569.m3u8
+#EXTINF:0,ETV Life
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_570.m3u8
+#EXTINF:0,TLC Hindi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_571.m3u8
+#EXTINF:0,Zee UP UK
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_572.m3u8
+#EXTINF:0,Discovery Bengali
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_573.m3u8
+#EXTINF:0,TLC English
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_574.m3u8
+#EXTINF:0,Discovery Hindi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_575.m3u8
+#EXTINF:0,Discovery Telugu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_576.m3u8
+#EXTINF:0,History TV18 HD Telugu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_577.m3u8
+#EXTINF:0,History TV18 HD Hindi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_578.m3u8
+#EXTINF:0,History TV18 HD Tamil
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_579.m3u8
+#EXTINF:0,DD bharati
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_580.m3u8
+#EXTINF:0,DD Kisan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_583.m3u8
+#EXTINF:0,Mastiii
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_584.m3u8
+#EXTINF:0,9XM
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_587.m3u8
+#EXTINF:0,E 24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_591.m3u8
+#EXTINF:0,ZOOM
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_592.m3u8
+#EXTINF:0,Sadhna
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_593.m3u8
+#EXTINF:0,Aastha Bhajan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_594.m3u8
+#EXTINF:0,Jinvani TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_596.m3u8
+#EXTINF:0,Satsang TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_597.m3u8
+#EXTINF:0,Sri Venkateshwar Bhakti
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_598.m3u8
+#EXTINF:0,Disha tv
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_599.m3u8
+#EXTINF:0,Ishwar TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_601.m3u8
+#EXTINF:0,Paras tv
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_602.m3u8
+#EXTINF:0,Nambikkai
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_603.m3u8
+#EXTINF:0,Channel Win
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_605.m3u8
+#EXTINF:0,Shalom
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_606.m3u8
+#EXTINF:0,Subhavartha TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_607.m3u8
+#EXTINF:0,Shubhsandesh TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_608.m3u8
+#EXTINF:0,mh1 Shraddha
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_609.m3u8
+#EXTINF:0,Darshan 24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_611.m3u8
+#EXTINF:0,ABP Majha
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_612.m3u8
+#EXTINF:0,Newslive
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_613.m3u8
+#EXTINF:0,ETV Andhra pradesh
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_614.m3u8
+#EXTINF:0,News 18 Tamilnadu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_615.m3u8
+#EXTINF:0,Tv 9 Gujarat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_616.m3u8
+#EXTINF:0,TV9 Maharashtra
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_617.m3u8
+#EXTINF:0,TV9 Telugu News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_618.m3u8
+#EXTINF:0,TV9 Karnataka
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_619.m3u8
+#EXTINF:0,News18 Gujarati
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_620.m3u8
+#EXTINF:0,Rang
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_623.m3u8
+#EXTINF:0,Prag News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_624.m3u8
+#EXTINF:0,Suvarna News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_626.m3u8
+#EXTINF:0,News 18 Assam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_627.m3u8
+#EXTINF:0,ETV Telugu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_629.m3u8
+#EXTINF:0,ETV Telangana
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_630.m3u8
+#EXTINF:0,MBC
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_631.m3u8
+#EXTINF:0,Sakshi tv
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_632.m3u8
+#EXTINF:0,DY 365
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_633.m3u8
+#EXTINF:0,Flower TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_634.m3u8
+#EXTINF:0,Rengoni
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_635.m3u8
+#EXTINF:0,Polimer News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_636.m3u8
+#EXTINF:0,North East Live
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_637.m3u8
+#EXTINF:0,Ramdhenu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_639.m3u8
+#EXTINF:0,ABP Asmita
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_641.m3u8
+#EXTINF:0,VTV Gujarati
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_642.m3u8
+#EXTINF:0,GS TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_643.m3u8
+#EXTINF:0,NTV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_646.m3u8
+#EXTINF:0,Pratidin Time
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_647.m3u8
+#EXTINF:0,Mazhavil Manorama
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_648.m3u8
+#EXTINF:0,Raj News Malayalam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_650.m3u8
+#EXTINF:0,Raj News Kannada
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_651.m3u8
+#EXTINF:0,Zee Bharat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_652.m3u8
+#EXTINF:0,News18 Kannada News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_653.m3u8
+#EXTINF:0,Zee Punjabi HP Haryana
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_654.m3u8
+#EXTINF:0,News18 Punjab Haryana
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_655.m3u8
+#EXTINF:0,News 9
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_656.m3u8
+#EXTINF:0,Zee Business
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_657.m3u8
+#EXTINF:0,Zee News MP Chattisgarh
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_658.m3u8
+#EXTINF:0,Zee Rajasthan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_659.m3u8
+#EXTINF:0,Zee Bihar Jharkhand
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_661.m3u8
+#EXTINF:0,Manorama News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_662.m3u8
+#EXTINF:0,Raj News Telugu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_664.m3u8
+#EXTINF:0,HM TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_665.m3u8
+#EXTINF:0,ABN Andhra Jyothi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_666.m3u8
+#EXTINF:0,T News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_667.m3u8
+#EXTINF:0,TV 5 News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_668.m3u8
+#EXTINF:0,6 TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_670.m3u8
+#EXTINF:0,Sathiyam TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_671.m3u8
+#EXTINF:0,ABP Ananda
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_672.m3u8
+#EXTINF:0,News7 Tamil
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_673.m3u8
+#EXTINF:0,Assam Talks
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_675.m3u8
+#EXTINF:0,Sun News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_676.m3u8
+#EXTINF:0,Puthiya Thalimurai
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_677.m3u8
+#EXTINF:0,Udaya Movies
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_678.m3u8
+#EXTINF:0,Sun Life
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_682.m3u8
+#EXTINF:0,Raj Digital Plus
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_683.m3u8
+#EXTINF:0,Gemini Life
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_684.m3u8
+#EXTINF:0,News Time TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_687.m3u8
+#EXTINF:0,DD Bangla
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_690.m3u8
+#EXTINF:0,Saam Tv
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_691.m3u8
+#EXTINF:0,ETV Plus
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_692.m3u8
+#EXTINF:0,News18 BIHAR
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_693.m3u8
+#EXTINF:0,News18 JKLH
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_694.m3u8
+#EXTINF:0,DD Sahayadri
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_695.m3u8
+#EXTINF:0,News18 Oriya
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_696.m3u8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_698.m3u8
+#EXTINF:0,DD Malayalam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_699.m3u8
+#EXTINF:0,Dangal
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_701.m3u8
+#EXTINF:0,DD Oriya
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_702.m3u8
+#EXTINF:0,Polimer TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_705.m3u8
+#EXTINF:0,DD Saptagiri
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_706.m3u8
+#EXTINF:0,Raj TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_707.m3u8
+#EXTINF:0,Makkal TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_708.m3u8
+#EXTINF:0,Adithya TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_709.m3u8
+#EXTINF:0,Kairali TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_710.m3u8
+#EXTINF:0,DD urdu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_712.m3u8
+#EXTINF:0,DD9 chandana (kannada)
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_713.m3u8
+#EXTINF:0,DD Girnar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_714.m3u8
+#EXTINF:0,DD Punjabi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_715.m3u8
+#EXTINF:0,DD Kashir
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_716.m3u8
+#EXTINF:0,News18 Bangla News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_717.m3u8
+#EXTINF:0,Kanak News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_718.m3u8
+#EXTINF:0,Nepal one
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_719.m3u8
+#EXTINF:0,DD13 Guwahati NE
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_720.m3u8
+#EXTINF:0,Amrita TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_723.m3u8
+#EXTINF:0,Zee Delhi NCR Haryana
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_724.m3u8
+#EXTINF:0,Kairali News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_725.m3u8
+#EXTINF:0,DD5 Podhigai
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_726.m3u8
+#EXTINF:0,Vasanth TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_727.m3u8
+#EXTINF:0,Zee Salaam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_728.m3u8
+#EXTINF:0,Gemini Comedy
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_729.m3u8
+#EXTINF:0,Kairali WE TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_731.m3u8
+#EXTINF:0,9X Tashan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_732.m3u8
+#EXTINF:0,Udaya Comedy
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_733.m3u8
+#EXTINF:0,Vissa TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_734.m3u8
+#EXTINF:0,Sangeet Marathi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_735.m3u8
+#EXTINF:0,Maiboli
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_736.m3u8
+#EXTINF:0,Raj Music Telugu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_737.m3u8
+#EXTINF:0,Fakt Marathi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_738.m3u8
+#EXTINF:0,Raj Music Malayalam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_739.m3u8
+#EXTINF:0,Sangeet Bangla
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_740.m3u8
+#EXTINF:0,Sangeet Bhojpuri
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_741.m3u8
+#EXTINF:0,mh1 (Music)
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_742.m3u8
+#EXTINF:0,Raj Music Kannada
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_743.m3u8
+#EXTINF:0,Udaya Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_744.m3u8
+#EXTINF:0,Surya Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_747.m3u8
+#EXTINF:0,Raj Musix
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_748.m3u8
+#EXTINF:0,MTV Beats HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_753.m3u8
+#EXTINF:0,Colors Marathi HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_755.m3u8
+#EXTINF:0,Colors Bengali HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_756.m3u8
+#EXTINF:0,Colors Kannada HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_757.m3u8
+#EXTINF:0,Channel News Asia International
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_764.m3u8
+#EXTINF:0,Jonack
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_765.m3u8
+#EXTINF:0,Raj News 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_767.m3u8
+#EXTINF:60,Jan TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_768.m3u8
+#EXTINF:0,V6 News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_769.m3u8
+#EXTINF:0,Kashish News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_770.m3u8
+#EXTINF:0,Live Today
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_771.m3u8
+#EXTINF:0,CVR OM Spiritual
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_772.m3u8
+#EXTINF:0,Public Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_773.m3u8
+#EXTINF:0,CVR Health
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_774.m3u8
+#EXTINF:0,Vanitha
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_775.m3u8
+#EXTINF:0,Bhakti TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_776.m3u8
+#EXTINF:0,Aradhana TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_777.m3u8
+#EXTINF:0,Public TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_778.m3u8
+#EXTINF:0,Prameya News 7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_779.m3u8
+#EXTINF:0,Mathrubhumi News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_780.m3u8
+#EXTINF:0,Kalinga TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_781.m3u8
+#EXTINF:0,Sandesh News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_782.m3u8
+#EXTINF:0,K News India
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_783.m3u8
+#EXTINF:0,CVR News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_784.m3u8
+#EXTINF:0,Colors Super
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_785.m3u8
+#EXTINF:0,Kappa TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_786.m3u8
+#EXTINF:0,CVR English
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_787.m3u8
+#EXTINF:0,India Voice
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_788.m3u8
+#EXTINF:0,JK 24x7 News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_789.m3u8
+#EXTINF:0,I News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_790.m3u8
+#EXTINF:0,Taaza TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_791.m3u8
+#EXTINF:0,News State UK UP
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_792.m3u8
+#EXTINF:0,Sahara Samay Rajasthan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_793.m3u8
+#EXTINF:0,Peace of Mind
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_794.m3u8
+#EXTINF:0,testa
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_795.m3u8
+#EXTINF:0,Peppers TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_796.m3u8
+#EXTINF:0,testii
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_797.m3u8
+#EXTINF:0,Naxatra News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_799.m3u8
+#EXTINF:0,Divya TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_801.m3u8
+#EXTINF:0,Tunes 6
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_803.m3u8
+#EXTINF:0,Samachar Plus
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_804.m3u8
+#EXTINF:0,Gulistan News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_807.m3u8
+#EXTINF:0,Hindi Khabar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_808.m3u8
+#EXTINF:0,Maha Movies
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_809.m3u8
+#EXTINF:0,Janam TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_810.m3u8
+#EXTINF:0,Travelxp Tamil
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_814.m3u8
+#EXTINF:0,Sonic Hindi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_815.m3u8
+#EXTINF:0,Cartoon Network Hindi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_816.m3u8
+#EXTINF:0,Cartoon Network Tamil
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_817.m3u8
+#EXTINF:0,Puthu Yugam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_824.m3u8
+#EXTINF:0,Malai Murasu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_826.m3u8
+#EXTINF:0,Shubh TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_828.m3u8
+#EXTINF:0,Sri Sankara
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_829.m3u8
+#EXTINF:0,Thanthi TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_830.m3u8
+#EXTINF:0,Living India News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_831.m3u8
+#EXTINF:0,10 TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_832.m3u8
+#EXTINF:0,Euro News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_837.m3u8
+#EXTINF:0,France 24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_838.m3u8
+#EXTINF:0,Jeevan TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_842.m3u8
+#EXTINF:0,Madhimugam TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_843.m3u8
+#EXTINF:0,Mazavali Manorama HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_844.m3u8
+#EXTINF:0,MK Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_845.m3u8
+#EXTINF:0,MKN News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_846.m3u8
+#EXTINF:0,MK TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_847.m3u8
+#EXTINF:0,News India 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_850.m3u8
+#EXTINF:0,SMBC TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_851.m3u8
+#EXTINF:0,Total TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_855.m3u8
+#EXTINF:0,Vedic TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_856.m3u8
+#EXTINF:0,Vendhar TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_857.m3u8
+#EXTINF:0,Republic TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_858.m3u8
+#EXTINF:0,Jio Exclusive HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_866.m3u8
+#EXTINF:0,Jio Events HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_871.m3u8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_875.m3u8
+#EXTINF:0,Times Now World
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_876.m3u8
+#EXTINF:0,Hare krsna
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_879.m3u8
+#EXTINF:0,Janta TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_880.m3u8
+#EXTINF:0,News11
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_882.m3u8
+#EXTINF:60,Oscar Movies
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_883.m3u8
+#EXTINF:0,TV5 Monde
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_885.m3u8
+#EXTINF:0,Lakshya TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_886.m3u8
+#EXTINF:0,Swar Shree
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_887.m3u8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_894.m3u8
+#EXTINF:0,Sun Music HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_895.m3u8
+#EXTINF:0,Sun TV HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_896.m3u8
+#EXTINF:0,Gemini TV HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_897.m3u8
+#EXTINF:0,Gemini Music HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_898.m3u8
+#EXTINF:0,Gemini Movies HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_899.m3u8
+#EXTINF:0,Surya HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_900.m3u8
+#EXTINF:0,Udaya HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_901.m3u8
+#EXTINF:0,Only Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_903.m3u8
+#EXTINF:0,Sanjha TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_904.m3u8
+#EXTINF:0,PBN Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_905.m3u8
+#EXTINF:0,Desi Channel
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_906.m3u8
+#EXTINF:0,GoodNews Channel
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_907.m3u8
+#EXTINF:0,Indradhanu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_908.m3u8
+#EXTINF:0,Media One TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_910.m3u8
+#EXTINF:0,Lotus News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_913.m3u8
+#EXTINF:0,Khabar Fast
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_915.m3u8
+#EXTINF:0,TV 100
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_916.m3u8
+#EXTINF:0,APN News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_917.m3u8
+#EXTINF:0,Bharat Samachar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_918.m3u8
+#EXTINF:0,Prime News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_921.m3u8
+#EXTINF:0,R.Kannada
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_923.m3u8
+#EXTINF:0,Mercy TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_924.m3u8
+#EXTINF:0,A1 TV Rajasthan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_926.m3u8
+#EXTINF:0,First India News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_927.m3u8
+#EXTINF:0,Zee 24 Kalak
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_929.m3u8
+#EXTINF:0,4 TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_933.m3u8
+#EXTINF:0,Divya Vani
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_934.m3u8
+#EXTINF:0,News 1 India
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_936.m3u8
+#EXTINF:0,Sai TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_937.m3u8
+#EXTINF:0,BTV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_938.m3u8
+#EXTINF:0,Bhaktisagar 2
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_939.m3u8
+#EXTINF:0,Mantavya News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_944.m3u8
+#EXTINF:0,Pitaara
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_946.m3u8
+#EXTINF:60,R Plus
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_950.m3u8
+#EXTINF:0,Live Punjabi TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_951.m3u8
+#EXTINF:0,Garv Punjabi Gurbani
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_952.m3u8
+#EXTINF:0,Propex TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_953.m3u8
+#EXTINF:0,Hindu Dharmam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_955.m3u8
+#EXTINF:0,TV 5 Kannada
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_956.m3u8
+#EXTINF:0,INH 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_957.m3u8
+#EXTINF:0,DNN
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_958.m3u8
+#EXTINF:0,JUSPunjabi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_959.m3u8
+#EXTINF:0,JUS 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_960.m3u8
+#EXTINF:0,JUSOne
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_961.m3u8
+#EXTINF:0,Boogle Bollywood
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_962.m3u8
+#EXTINF:0,Arre HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_963.m3u8
+#EXTINF:0,Om Shanti
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_964.m3u8
+#EXTINF:0,News 18 Kerala
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_965.m3u8
+#EXTINF:0,Prudent
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_966.m3u8
+#EXTINF:0,Vaanavil TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_971.m3u8
+#EXTINF:0,Sarv Dharam Sangam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_972.m3u8
+#EXTINF:0,Jantantra
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_975.m3u8
+#EXTINF:0,Calvary
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_977.m3u8
+#EXTINF:0,TEST1 HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_978.m3u8
+#EXTINF:0,TEST2 HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_979.m3u8
+#EXTINF:0,Swayam Prabha 01
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_980.m3u8
+#EXTINF:0,Swayam Prabha 02
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_981.m3u8
+#EXTINF:0,Swayam Prabha 03
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_982.m3u8
+#EXTINF:0,Swayam Prabha 08
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_983.m3u8
+#EXTINF:0,Swayam Prabha 04
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_984.m3u8
+#EXTINF:0,Swayam Prabha 07
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_985.m3u8
+#EXTINF:0,Swayam Prabha 05
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_986.m3u8
+#EXTINF:0,Swayam Prabha 06
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_987.m3u8
+#EXTINF:0,Swayam Prabha 09
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_988.m3u8
+#EXTINF:0,Swayam Prabha 10
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_989.m3u8
+#EXTINF:0,Swayam Prabha 11
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_990.m3u8
+#EXTINF:0,Swayam Prabha 12
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_991.m3u8
+#EXTINF:0,Swayam Prabha 13
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_992.m3u8
+#EXTINF:0,Swayam Prabha 14
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_993.m3u8
+#EXTINF:0,Swayam Prabha 16
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_994.m3u8
+#EXTINF:0,Swayam Prabha 15
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_995.m3u8
+#EXTINF:0,Swayam Prabha 17
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_996.m3u8
+#EXTINF:0,Swayam Prabha 21
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_997.m3u8
+#EXTINF:0,Swayam Prabha 22
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_998.m3u8
+#EXTINF:0,Swayam Prabha 18
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_999.m3u8
+#EXTINF:0,TEST3 HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1059.m3u8
+#EXTINF:0,TEST5 HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1061.m3u8
+#EXTINF:0,The Q
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1066.m3u8
+#EXTINF:0,Vande Gujarat 1
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1069.m3u8
+#EXTINF:0,Vande Gujarat 2
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1070.m3u8
+#EXTINF:0,Vande Gujarat 4
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1071.m3u8
+#EXTINF:0,Samara News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1073.m3u8
+#EXTINF:0,Ayush TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1075.m3u8
+#EXTINF:0,Sharnam TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1077.m3u8
+#EXTINF:0,Soham TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1078.m3u8
+#EXTINF:0,CN HD+ English
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1079.m3u8
+#EXTINF:0,CN HD+ Telugu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1080.m3u8
+#EXTINF:0,CN HD+ Tamil
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1081.m3u8
+#EXTINF:0,Vande Gujarat 3
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1082.m3u8
+#EXTINF:0,Vande Gujarat 5
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1083.m3u8
+#EXTINF:0,Vande Gujarat 6
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1084.m3u8
+#EXTINF:0,Vande Gujarat 7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1085.m3u8
+#EXTINF:0,Vande Gujarat 8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1086.m3u8
+#EXTINF:0,Vande Gujarat 9
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1087.m3u8
+#EXTINF:0,Vande Gujarat 10
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1088.m3u8
+#EXTINF:0,Vande Gujarat 11
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1089.m3u8
+#EXTINF:0,Vande Gujarat 12
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1090.m3u8
+#EXTINF:0,Vande Gujarat 13
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1091.m3u8
+#EXTINF:0,Vande Gujarat 14
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1092.m3u8
+#EXTINF:0,Vande Gujarat 15
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1093.m3u8
+#EXTINF:0,Vande Gujarat 16
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1094.m3u8
+#EXTINF:0,RDX Goa
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1102.m3u8
+#EXTINF:0,PEACE MUSIC
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1103.m3u8
+#EXTINF:0,MTV HD Plus
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1145.m3u8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1148.m3u8
+#EXTINF:0,Rangamanch
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1151.m3u8
+#EXTINF:60,Comedy Central HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1157.m3u8
+#EXTINF:0,Colors Infinity HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1158.m3u8
+#EXTINF:0,Tulja Bhavani
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1159.m3u8
+#EXTINF:0,JioGames HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1163.m3u8
+#EXTINF:0,PTC News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1170.m3u8
+#EXTINF:0,PTC Punjabi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1171.m3u8
+#EXTINF:0,PTC Chak De
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1172.m3u8
+#EXTINF:0,Fateh TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1174.m3u8
+#EXTINF:0,Awakening
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1175.m3u8
+#EXTINF:0,Bansal News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1179.m3u8
+#EXTINF:0,Steelbird Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1184.m3u8
+#EXTINF:0,Swadesh News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1185.m3u8
+#EXTINF:0,Kartavya TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1186.m3u8
+#EXTINF:0,Valam TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1187.m3u8
+#EXTINF:0,PTC DHOL TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1188.m3u8
+#EXTINF:0,PTC Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1189.m3u8
+#EXTINF:0,PTC Punjabi Gold 
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1190.m3u8
+#EXTINF:0,PTC Simran
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1191.m3u8
+#EXTINF:0,Brit Asia
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1192.m3u8
+#EXTINF:0,Hare Krsna Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1193.m3u8
+#EXTINF:0,Sadhguru Television HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1201.m3u8
+#EXTINF:0,ABP Ganga
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1205.m3u8
+#EXTINF:0,Kalaignar TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1209.m3u8
+#EXTINF:0,Kalaignar Seithigal 
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1210.m3u8
+#EXTINF:0,Hare Krsna Pravachan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1212.m3u8
+#EXTINF:0,Highbrow
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1216.m3u8
+#EXTINF:0,Animal Planet HD Tamil
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1219.m3u8
+#EXTINF:0,Rajyoga TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1220.m3u8
+#EXTINF:0,Rajyoga TV Kannada
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1221.m3u8
+#EXTINF:0,Mandir Shri Govinddevji-Jaipur
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1222.m3u8
+#EXTINF:0,Dagdusheth Ganpati - Pune
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1223.m3u8
+#EXTINF:0,Nimbark TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1224.m3u8
+#EXTINF:0,Nick HD+
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1226.m3u8
+#EXTINF:0,Digishala
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1227.m3u8
+#EXTINF:0,TEST9 HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1229.m3u8
+#EXTINF:0,PTC VR
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1230.m3u8
+#EXTINF:0,Hi Dost!
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1232.m3u8
+#EXTINF:0,TEST10 HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1240.m3u8
+#EXTINF:0,God TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1241.m3u8
+#EXTINF:0,Sonic Telugu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1242.m3u8
+#EXTINF:0,Sonic Kannada
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1243.m3u8
+#EXTINF:0,Nick Kannada
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1244.m3u8
+#EXTINF:0,Sakkat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1245.m3u8
+#EXTINF:0,Bol Hadippa
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1248.m3u8
+#EXTINF:0,Kadak Hits
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1249.m3u8
+#EXTINF:0,Twenty Four News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1250.m3u8
+#EXTINF:0,TV9 Bharatvarsh
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1251.m3u8
+#EXTINF:0,Tehzeeb TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1252.m3u8
+#EXTINF:0,Aastha Telugu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1254.m3u8
+#EXTINF:0,Aastha Gujarati
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1255.m3u8
+#EXTINF:0,Aastha Kannada
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1256.m3u8
+#EXTINF:0,Surya Samachar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1257.m3u8
+#EXTINF:0,Ctvn Akd Plus
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1260.m3u8
+#EXTINF:0,Calcutta News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1261.m3u8
+#EXTINF:0,Total Tv Haryana
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1263.m3u8
+#EXTINF:0,Kolkata TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1264.m3u8
+#EXTINF:0,Global Sanjh
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1265.m3u8
+#EXTINF:0,Sri Krishna Matha Udupi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1271.m3u8
+#EXTINF:0,Sugran
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1273.m3u8
+#EXTINF:0,Studio One
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1274.m3u8
+#EXTINF:0,Prarthana Bhawan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1278.m3u8
+#EXTINF:0,Vignesh TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1284.m3u8
+#EXTINF:0,Insync
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1286.m3u8
+#EXTINF:0,ANB News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1287.m3u8
+#EXTINF:0,ABP Sanjha
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1291.m3u8
+#EXTINF:0,Wellness
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1292.m3u8
+#EXTINF:0,Lokshahi News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1293.m3u8
+#EXTINF:0,Eurosport
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1294.m3u8
+#EXTINF:0,B4U Kadak
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1295.m3u8
+#EXTINF:0,B4U Bhojpuri
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1296.m3u8
+#EXTINF:0,HHDL
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1315.m3u8
+#EXTINF:0,VH1 HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1320.m3u8
+#EXTINF:0,Colors Gujarati Cinema
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1324.m3u8
+#EXTINF:0,Colors Infinity SD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1325.m3u8
+#EXTINF:0,Colors Marathi SD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1326.m3u8
+#EXTINF:0,Comedy Central SD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1327.m3u8
+#EXTINF:0,DD Arunprabha
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1328.m3u8
+#EXTINF:0,DD Gyandarshan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1329.m3u8
+#EXTINF:0,Top Tutor
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1337.m3u8
+#EXTINF:0,RT TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1338.m3u8
+#EXTINF:0,Nick Malayalam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1340.m3u8
+#EXTINF:0,Nick Bangla
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1341.m3u8
+#EXTINF:0,Nick Marathi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1342.m3u8
+#EXTINF:0,Sonic Malayalam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1344.m3u8
+#EXTINF:0,Sonic Bangla
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1345.m3u8
+#EXTINF:0,Sonic Marathi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1346.m3u8
+#EXTINF:56,Colors SD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1368.m3u8
+#EXTINF:0,Colors Bangla SD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1369.m3u8
+#EXTINF:0,Colors Kannada SD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1370.m3u8
+#EXTINF:0,Colors Tamil
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1371.m3u8
+#EXTINF:0,VH1
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1378.m3u8
+#EXTINF:0,Goodness
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1388.m3u8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1394.m3u8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1400.m3u8
+#EXTINF:0,Republic Bharat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1403.m3u8
+#EXTINF:0,NHK World Japan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1405.m3u8
+#EXTINF:0,Sai Leela
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1407.m3u8
+#EXTINF:0,Reporter TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1408.m3u8
+#EXTINF:0,PM e Vidya 11
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1410.m3u8
+#EXTINF:0,SongDew TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1411.m3u8
+#EXTINF:0,Shani Shingnapur
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1412.m3u8
+#EXTINF:0,Prati Shirdi Saibaba
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1414.m3u8
+#EXTINF:0,Ganga Darshan Varanasi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1415.m3u8
+#EXTINF:0,SVBC2
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1417.m3u8
+#EXTINF:0,Ichhapuran Balaji Rajasthan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1418.m3u8
+#EXTINF:0,Iskon Girgaon
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1419.m3u8
+#EXTINF:0,Ashtavinayak Ranjangaon
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1420.m3u8
+#EXTINF:0,Karani Mata Rajasthan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1421.m3u8
+#EXTINF:0,Mahalaxmi Mumbai
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1422.m3u8
+#EXTINF:0,Babulnaath Mumbai
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1423.m3u8
+#EXTINF:0,Mumbadevi Mumbai
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1424.m3u8
+#EXTINF:0,Santvani
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1426.m3u8
+#EXTINF:0,Nandighosha
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1427.m3u8
+#EXTINF:0,Gyan Brikshya
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1428.m3u8
+#EXTINF:0,KITE VICTERS
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1429.m3u8
+#EXTINF:0,Jio KIDS
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1430.m3u8
+#EXTINF:0,TIME8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1432.m3u8
+#EXTINF:0,India Science
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1433.m3u8
+#EXTINF:0,Utkarsh Primary
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1434.m3u8
+#EXTINF:0,Utkarsh HSBTE
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1435.m3u8
+#EXTINF:0,Utkarsh Secondary
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1436.m3u8
+#EXTINF:0,Utkarsh Higher
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1437.m3u8
+#EXTINF:0,Velukkudi Discourses
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1438.m3u8
+#EXTINF:0,Krishna Vani
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1440.m3u8
+#EXTINF:0,Wah Punjabi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1441.m3u8
+#EXTINF:0,TV Teacher
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1447.m3u8
+#EXTINF:0,Colors Cineplex Superhit
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1450.m3u8
+#EXTINF:0,9 Bharat Samachar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1451.m3u8
+#EXTINF:0,Shemaroo MarathiBana
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1452.m3u8
+#EXTINF:0,Balle Balle TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1453.m3u8
+#EXTINF:0,Shiksha TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1454.m3u8
+#EXTINF:0,Janapriyam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1455.m3u8
+#EXTINF:0,Lairik
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1456.m3u8
+#EXTINF:0,News Only
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1457.m3u8
+#EXTINF:0,Gurkibani
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1458.m3u8
+#EXTINF:0,Shree Ganesh - Moti Doongri Jaipur
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1463.m3u8
+#EXTINF:0,Daijiworld TV 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1464.m3u8
+#EXTINF:0,History TV18 SD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1471.m3u8
+#EXTINF:0,Colors Cineplex HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1477.m3u8
+#EXTINF:0,Argus News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1481.m3u8
+#EXTINF:0,AMMA TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1482.m3u8
+#EXTINF:0,BHOOMI 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1494.m3u8
+#EXTINF:0,Kannur One
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1514.m3u8
+#EXTINF:0,News J
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1515.m3u8
+#EXTINF:0,Imayam TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1517.m3u8
+#EXTINF:0,Moon TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1518.m3u8
+#EXTINF:0,Birla Brainiacs
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1521.m3u8
+#EXTINF:0,TEST13 HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1525.m3u8
+#EXTINF:0,Haryanvi Hits
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1527.m3u8
+#EXTINF:0,Network 10
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1528.m3u8
+#EXTINF:0,MI TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1529.m3u8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1531.m3u8
+#EXTINF:0,PM e Vidya 12
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1532.m3u8
+#EXTINF:0,World  Punjabi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1534.m3u8
+#EXTINF:0,RadheKrishna TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1537.m3u8
+#EXTINF:0,Sangat TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1539.m3u8
+#EXTINF:0,Tute
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1542.m3u8
+#EXTINF:0,Subharti
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1543.m3u8
+#EXTINF:0,Punjab School TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1545.m3u8
+#EXTINF:0,Dharm Granth TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1549.m3u8
+#EXTINF:0,AB News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1550.m3u8
+#EXTINF:0,P News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1551.m3u8
+#EXTINF:0,Malanadu TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1552.m3u8
+#EXTINF:0,AB Star News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1553.m3u8
+#EXTINF:0,Sanatan TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1554.m3u8
+#EXTINF:0,News First
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1555.m3u8
+#EXTINF:0,Express TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1557.m3u8
+#EXTINF:0,Jigyasa TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1559.m3u8
+#EXTINF:0,35mm
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1560.m3u8
+#EXTINF:0,Sristi TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1561.m3u8
+#EXTINF:0,Himshiksha Elementary
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1562.m3u8
+#EXTINF:0,Himshiksha Higher
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1563.m3u8
+#EXTINF:0,Himshiksha Vocational
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1564.m3u8
+#EXTINF:0,AP-BIE-ARTS
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1565.m3u8
+#EXTINF:0,AP-BIE-SCIENCE
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1566.m3u8
+#EXTINF:0,AP-CIE-SIVE
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1567.m3u8
+#EXTINF:0,Atmadarshan TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1568.m3u8
+#EXTINF:0,Sanskrit
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1590.m3u8
+#EXTINF:0,Lifology
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1593.m3u8
+#EXTINF:0,Samachar 24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1594.m3u8
+#EXTINF:0,FTV HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1598.m3u8
+#EXTINF:0,Bangla Bhakti
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1605.m3u8
+#EXTINF:0,Manav Dharam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1607.m3u8
+#EXTINF:0,MP News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1608.m3u8
+#EXTINF:0,Ishvani TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1609.m3u8
+#EXTINF:0,Divyang News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1610.m3u8
+#EXTINF:0,Tara TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1612.m3u8
+#EXTINF:0,Medha Secondary
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1613.m3u8
+#EXTINF:0,Omnicuris
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1614.m3u8
+#EXTINF:0,Real News Kerala
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1618.m3u8
+#EXTINF:0,Colors Kannada Cinema
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1632.m3u8
+#EXTINF:0,Public Movies
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1633.m3u8
+#EXTINF:0,Siri Kannada
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1634.m3u8
+#EXTINF:0,News State MPCG 
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1635.m3u8
+#EXTINF:0,Harvest TV 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1643.m3u8
+#EXTINF:0,Powervision TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1644.m3u8
+#EXTINF:0,MK Six
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1647.m3u8
+#EXTINF:0,Madha TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1655.m3u8
+#EXTINF:0,Colors Bangla Cinema
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1657.m3u8
+#EXTINF:0,Aalami Samay
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1658.m3u8
+#EXTINF:0,Surya Comedy
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1662.m3u8
+#EXTINF:0,ETV Cinema HD 
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1665.m3u8
+#EXTINF:0,Safari TV 
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1666.m3u8
+#EXTINF:0,Rongeen TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1667.m3u8
+#EXTINF:0,Sun Bangla
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1669.m3u8
+#EXTINF:0,C News Bharat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1670.m3u8
+#EXTINF:0,Gyanvani 2
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1672.m3u8
+#EXTINF:0,PTD Chhattisgarrh
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1673.m3u8
+#EXTINF:0,ESG TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1675.m3u8
+#EXTINF:0,BVTV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1690.m3u8
+#EXTINF:0,Badakhabar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1692.m3u8
+#EXTINF:0,Haryana Beats
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1694.m3u8
+#EXTINF:0,Prime TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1695.m3u8
+#EXTINF:0,FM News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1697.m3u8
+#EXTINF:0,IND 24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1698.m3u8
+#EXTINF:0,ANN News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1699.m3u8
+#EXTINF:0,Shri Hingulambika Devi Temple
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1705.m3u8
+#EXTINF:0,Shri Mangal Dev Grah Temple
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1706.m3u8
+#EXTINF:0,SKY 12
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1708.m3u8
+#EXTINF:0,24Hrs TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1725.m3u8
+#EXTINF:0,Anaadi TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1728.m3u8
+#EXTINF:0,N5TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1731.m3u8
+#EXTINF:0,ND 24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1733.m3u8
+#EXTINF:0,Ek Onkar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1734.m3u8
+#EXTINF:0,TV9 Bangla
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1735.m3u8
+#EXTINF:0,Hosanna TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1738.m3u8
+#EXTINF:0,JKAC News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1739.m3u8
+#EXTINF:0,Purnima TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1740.m3u8
+#EXTINF:0,Bharat AtoZ
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1741.m3u8
+#EXTINF:0,Sanskrit Ganga
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1742.m3u8
+#EXTINF:0,Hornbill TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1743.m3u8
+#EXTINF:0,Zee Bioskope SD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1745.m3u8
+#EXTINF:0,India News Gujarat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1747.m3u8
+#EXTINF:0,Surya Movies
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1754.m3u8
+#EXTINF:0,NK TV Plus
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1757.m3u8
+#EXTINF:0,DPK News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1758.m3u8
+#EXTINF:0,Buletin India
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1759.m3u8
+#EXTINF:0,Aryan TV National
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1761.m3u8
+#EXTINF:0,Channel Vision
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1762.m3u8
+#EXTINF:0,Colors Cineplex Bollywood
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1763.m3u8
+#EXTINF:0,Dada Bhagwan Foundation
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1764.m3u8
+#EXTINF:0,Express News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1771.m3u8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1777.m3u8
+#EXTINF:0,HooplaKidz TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1780.m3u8
+#EXTINF:0,VISVAS
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1787.m3u8
+#EXTINF:0,Yeshuaa TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1788.m3u8
+#EXTINF:0,Dada Bhagwan Foundation Gujarati
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1789.m3u8
+#EXTINF:0,KP News 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1791.m3u8
+#EXTINF:0,National News Sattaxpress
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1793.m3u8
+#EXTINF:0,Mangalmay Live
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1794.m3u8
+#EXTINF:0,Shri Amarnathji Shrine Board
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1795.m3u8
+#EXTINF:0,Ananda Barta
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1796.m3u8
+#EXTINF:0,Pasand
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1798.m3u8
+#EXTINF:0,Studio Yuva Alpha
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1799.m3u8
+#EXTINF:0,News World India
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1802.m3u8
+#EXTINF:0,Jan Setu News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1804.m3u8
+#EXTINF:0,NEWS 24 MPCG
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1817.m3u8
+#EXTINF:0,Swaralasika Sangeetalaya
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1826.m3u8
+#EXTINF:0,Aakash EduTV NEET
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1827.m3u8
+#EXTINF:0,Green Chillies
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1834.m3u8
+#EXTINF:0,Z10 TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1847.m3u8
+#EXTINF:0,SVBC
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1850.m3u8
+#EXTINF:0,Aakash EduTV JEE
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1851.m3u8
+#EXTINF:0,News11 Bharat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1853.m3u8
+#EXTINF:0,STV Haryana News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1854.m3u8
+#EXTINF:0,NL TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1855.m3u8
+#EXTINF:0,Pratham Khabar 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1856.m3u8
+#EXTINF:0,SVBC3
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1858.m3u8
+#EXTINF:0,SVBC4
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1859.m3u8
+#EXTINF:0,Punjab Plus
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1868.m3u8
+#EXTINF:0,7X Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1871.m3u8
+#EXTINF:0,Pogo Telugu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1883.m3u8
+#EXTINF:0,Kripa TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1885.m3u8
+#EXTINF:0,Sansad TV Rajya Sabha
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1886.m3u8
+#EXTINF:0,Tribe TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1891.m3u8
+#EXTINF:0,Today 24 News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1895.m3u8
+#EXTINF:0,News Flash
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1896.m3u8
+#EXTINF:0,Pulse 24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1897.m3u8
+#EXTINF:0,GBN24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1898.m3u8
+#EXTINF:0,Express News Bharat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1900.m3u8
+#EXTINF:0,Adhyatam TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1901.m3u8
+#EXTINF:0,Times Now Navbharat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1906.m3u8
+#EXTINF:0,ET Now Swadesh
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1907.m3u8
+#EXTINF:0,Jio Cricket English HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1918.m3u8
+#EXTINF:0,The Q Kahaniyan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1920.m3u8
+#EXTINF:0,MH1 Dil Se
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1925.m3u8
+#EXTINF:0,Sanskriti 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1926.m3u8
+#EXTINF:0,Shri Trimbakeshwar Devasthan Trust
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1933.m3u8
+#EXTINF:0,News Tamil 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1954.m3u8
+#EXTINF:0,Foodxp
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1955.m3u8
+#EXTINF:0,Sidharth TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1956.m3u8
+#EXTINF:0,Sidharth Gold
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1957.m3u8
+#EXTINF:0,Sidharth Bhakti
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1958.m3u8
+#EXTINF:0,Global India
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1959.m3u8
+#EXTINF:0,Shemaroo TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1961.m3u8
+#EXTINF:0,Amaar Bangla
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1962.m3u8
+#EXTINF:0,News 24 Express
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1963.m3u8
+#EXTINF:0,ABC News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1964.m3u8
+#EXTINF:0,VNM TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1965.m3u8
+#EXTINF:0,Live TV Kerala
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1966.m3u8
+#EXTINF:0,PMC Hindi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1967.m3u8
+#EXTINF:0,Top News Marathi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1972.m3u8
+#EXTINF:0,ETV HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1973.m3u8
+#EXTINF:0,Gujarat 1st 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1974.m3u8
+#EXTINF:0,PMC Telugu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1975.m3u8
+#EXTINF:0,Sports18 1 HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1984.m3u8
+#EXTINF:0,Sports18 1
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1985.m3u8
+#EXTINF:0,Sports18 Khel
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1998.m3u8
+#EXTINF:0,Raftaar Media
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_1999.m3u8
+#EXTINF:0,PlusTest1
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2000.m3u8
+#EXTINF:0,PlusTest2 HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2001.m3u8
+#EXTINF:0,Aadinath TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2002.m3u8
+#EXTINF:0,3.0 TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2003.m3u8
+#EXTINF:0,Shekinah TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2004.m3u8
+#EXTINF:0,IN 24 News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2005.m3u8
+#EXTINF:0,BS9 News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2007.m3u8
+#EXTINF:0,News 21
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2008.m3u8
+#EXTINF:0,Ekamra Nilach akra
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2010.m3u8
+#EXTINF:0,Ekamra Bharat Odia
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2011.m3u8
+#EXTINF:0,Paramatma
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2012.m3u8
+#EXTINF:0,Leaking Top Secret
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2013.m3u8
+#EXTINF:0,News India TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2014.m3u8
+#EXTINF:0,Ekamra Musiq
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2015.m3u8
+#EXTINF:0,Ekamra Cinema
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2016.m3u8
+#EXTINF:0,Munsif TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2017.m3u8
+#EXTINF:0,Samachar Nation
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2018.m3u8
+#EXTINF:0,Global Punjab
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2019.m3u8
+#EXTINF:0,KKD News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2020.m3u8
+#EXTINF:0,HNN 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2021.m3u8
+#EXTINF:0,NB News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2022.m3u8
+#EXTINF:0,Raatdin News Network
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2027.m3u8
+#EXTINF:0,Sadvidya TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2028.m3u8
+#EXTINF:0,Aaryaa Bhakti
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2029.m3u8
+#EXTINF:0,Aaryaa News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2030.m3u8
+#EXTINF:0,Fashion India
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2031.m3u8
+#EXTINF:0,NSDC TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2034.m3u8
+#EXTINF:0,Amritwani
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2035.m3u8
+#EXTINF:0,Dil Se
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2036.m3u8
+#EXTINF:0,Pop Pataka
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2037.m3u8
+#EXTINF:0,Dhamaal
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2038.m3u8
+#EXTINF:0,Bollywood Hungama
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2040.m3u8
+#EXTINF:0,Bhakti Sagar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2041.m3u8
+#EXTINF:0,Nazraana
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2042.m3u8
+#EXTINF:0,Artist Aloud
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2043.m3u8
+#EXTINF:0,Auroville TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2045.m3u8
+#EXTINF:0,RS Bharat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2063.m3u8
+#EXTINF:0,Merchant Records
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2064.m3u8
+#EXTINF:0,Saregama Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2065.m3u8
+#EXTINF:0,Prime Media Goa
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2074.m3u8
+#EXTINF:0,Gangaur
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2077.m3u8
+#EXTINF:0,Shemaroo Umang
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2078.m3u8
+#EXTINF:0,Bharat 24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2079.m3u8
+#EXTINF:0,TV27 News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2081.m3u8
+#EXTINF:0,22Scope News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2082.m3u8
+#EXTINF:0,India 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2176.m3u8
+#EXTINF:0,Arya Sandesh TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2177.m3u8
+#EXTINF:0,Q GameX
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2183.m3u8
+#EXTINF:0,U Bangla
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2184.m3u8
+#EXTINF:0,Swatantra News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2187.m3u8
+#EXTINF:0,Globe TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2188.m3u8
+#EXTINF:0,Aaryaa Cinema
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2189.m3u8
+#EXTINF:0,Gurukul
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2192.m3u8
+#EXTINF:0,Guruvayur Devaswom
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2205.m3u8
+#EXTINF:0,India News Punjab
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2224.m3u8
+#EXTINF:0,TV24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2225.m3u8
+#EXTINF:0,Jatra Ekamra
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2227.m3u8
+#EXTINF:0,Samay Kolkata
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2228.m3u8
+#EXTINF:0,Bhojpuri Junction
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2229.m3u8
+#EXTINF:0,Jio Specials HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2230.m3u8
+#EXTINF:0,News 80
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2233.m3u8
+#EXTINF:0,Desi Music Station
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2252.m3u8
+#EXTINF:0,Nakshatra Digital TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2253.m3u8
+#EXTINF:0,Media9
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2254.m3u8
+#EXTINF:0,Raftaar Samay
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2255.m3u8
+#EXTINF:0,Animax
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2258.m3u8
+#EXTINF:0,Divyalok TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2322.m3u8
+#EXTINF:0,TTN24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2323.m3u8
+#EXTINF:0,Punjabi Melodies
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2325.m3u8
+#EXTINF:0,Firstpost
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2326.m3u8
+#EXTINF:0,CyberPeace TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2328.m3u8
+#EXTINF:0,SRS Bhakti TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2351.m3u8
+#EXTINF:0,Narikaa
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2352.m3u8
+#EXTINF:0,Bharat Express
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2353.m3u8
+#EXTINF:0,Friends TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2354.m3u8
+#EXTINF:0,One Paschima
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2355.m3u8
+#EXTINF:0,Sadhguru Television SD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2388.m3u8
+#EXTINF:0,Vande Bharat News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2423.m3u8
+#EXTINF:0,Sun Marathi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2424.m3u8
+#EXTINF:0,E News79
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2433.m3u8
+#EXTINF:0,M Nadu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2434.m3u8
+#EXTINF:0,Spondon
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2435.m3u8
+#EXTINF:0,Prime 9 News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2436.m3u8
+#EXTINF:0,Wild Earth
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2437.m3u8
+#EXTINF:0,Desika daya
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2448.m3u8
+#EXTINF:0,Jyothishavartha
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2686.m3u8
+#EXTINF:0,The Book Channel
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2687.m3u8
+#EXTINF:0,Vistara News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2732.m3u8
+#EXTINF:0,Popular TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2734.m3u8
+#EXTINF:0,Samachar Plus Jharkhand Bihar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2735.m3u8
+#EXTINF:0,Zee Kannada News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2742.m3u8
+#EXTINF:0,Power TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2743.m3u8
+#EXTINF:0,Saregama Telugu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2745.m3u8
+#EXTINF:0,Saga Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2750.m3u8
+#EXTINF:0,Saga Music Haryanvi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2751.m3u8
+#EXTINF:0,Ghaint Punjab
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2752.m3u8
+#EXTINF:0,YRF Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2753.m3u8
+#EXTINF:0,Sikh Ratnavali
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2754.m3u8
+#EXTINF:0,Saregama Hum Bhojpuri
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2755.m3u8
+#EXTINF:0,DD North East
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2759.m3u8
+#EXTINF:0,My Bharat News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2760.m3u8
+#EXTINF:0,NH Studioz
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2762.m3u8
+#EXTINF:0,News State Bihar Jharkhand
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2764.m3u8
+#EXTINF:0,BSTV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2765.m3u8
+#EXTINF:0,BRAVE TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2766.m3u8
+#EXTINF:0,Sacchi Report
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2767.m3u8
+#EXTINF:0,Jothi TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2768.m3u8
+#EXTINF:0,Har Khabar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2770.m3u8
+#EXTINF:0,Sadhna News MP CG
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2771.m3u8
+#EXTINF:0,India Daily Live
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2772.m3u8
+#EXTINF:0,Aaj Ki Khabar
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2773.m3u8
+#EXTINF:0,Power Kids TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2774.m3u8
+#EXTINF:0,Grace TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2775.m3u8
+#EXTINF:0,Asian News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2777.m3u8
+#EXTINF:0,Tabbar Hits
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2778.m3u8
+#EXTINF:0,Red Bull TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2779.m3u8
+#EXTINF:0,R Bangla
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2780.m3u8
+#EXTINF:0,CENTA TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2781.m3u8
+#EXTINF:0,ABC Australia
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2782.m3u8
+#EXTINF:0,Big TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2783.m3u8
+#EXTINF:0,ISKCON Bangalore
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2784.m3u8
+#EXTINF:0,Boogle Bangla
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2817.m3u8
+#EXTINF:0,Headline News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2827.m3u8
+#EXTINF:0,IN24 Live
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2851.m3u8
+#EXTINF:0,Sports18 2
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2852.m3u8
+#EXTINF:0,Sports18 3
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2853.m3u8
+#EXTINF:0,KCM
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2854.m3u8
+#EXTINF:0,ICMAI-Delhi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2860.m3u8
+#EXTINF:0,Mahaa News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2862.m3u8
+#EXTINF:0,BHI Channel
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2914.m3u8
+#EXTINF:0,Daily Post PHH
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2916.m3u8
+#EXTINF:0,Sadhna Gold
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2917.m3u8
+#EXTINF:0,WPN World Punjabi News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2918.m3u8
+#EXTINF:0,99 TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2932.m3u8
+#EXTINF:0,NK TV Bangla
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2933.m3u8
+#EXTINF:0,Punjabi Hits
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2934.m3u8
+#EXTINF:0,Pudhari News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2935.m3u8
+#EXTINF:0,Oye Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2936.m3u8
+#EXTINF:0,Update India
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2937.m3u8
+#EXTINF:0,Haryana Buzz
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2938.m3u8
+#EXTINF:0,Coke Studio Tamil
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2939.m3u8
+#EXTINF:0,Coke Studio Bharat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2944.m3u8
+#EXTINF:0,Tar TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2945.m3u8
+#EXTINF:0,National News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2946.m3u8
+#EXTINF:0,Jeewan Bhakti
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2947.m3u8
+#EXTINF:0,Enrich TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2953.m3u8
+#EXTINF:0,TV45
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2954.m3u8
+#EXTINF:0,Shrimad Ramayan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2955.m3u8
+#EXTINF:0,ETV Plus HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2956.m3u8
+#EXTINF:0,Public First
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2957.m3u8
+#EXTINF:0,Tamilan Television
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2958.m3u8
+#EXTINF:0,Janta Darbar News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2959.m3u8
+#EXTINF:0,Current Trend Assam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2961.m3u8
+#EXTINF:0,NoFilterNeha
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_2962.m3u8
+#EXTINF:0,Coke Studio Bharat Season 1
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3003.m3u8
+#EXTINF:0,Velicham Tv
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3004.m3u8
+#EXTINF:0,Rupashi Bangla
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3005.m3u8
+#EXTINF:0,Dhoom Music Bangla
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3006.m3u8
+#EXTINF:0,AMV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3007.m3u8
+#EXTINF:0,Maya Tv
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3008.m3u8
+#EXTINF:0,India Now
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3009.m3u8
+#EXTINF:0,Lancs TV HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3011.m3u8
+#EXTINF:0,Narayana Health
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3013.m3u8
+#EXTINF:0,IPN News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3014.m3u8
+#EXTINF:0,Coke Studio Tamil Season 1
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3015.m3u8
+#EXTINF:0,TNI24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3016.m3u8
+#EXTINF:0,News Hour
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3017.m3u8
+#EXTINF:0,News 360
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3018.m3u8
+#EXTINF:0,Bangla Jago
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3019.m3u8
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3021.m3u8
+#EXTINF:0,Unique Tv
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3022.m3u8
+#EXTINF:0,Janadesh News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3023.m3u8
+#EXTINF:0,India TV Yoga Channel
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3024.m3u8
+#EXTINF:0,India TV Aap Ki Adalat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3025.m3u8
+#EXTINF:0,India TV Speed News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3026.m3u8
+#EXTINF:0,Desh News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3027.m3u8
+#EXTINF:0,BH Style Icons
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3028.m3u8
+#EXTINF:0,Bollywood Masala
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3029.m3u8
+#EXTINF:0,Zee Telugu News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3031.m3u8
+#EXTINF:0,Kalyan TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3037.m3u8
+#EXTINF:0,Amritwani TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3038.m3u8
+#EXTINF:0,Garvi Gujarat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3039.m3u8
+#EXTINF:0,Bharat TV24
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3041.m3u8
+#EXTINF:0,News 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3042.m3u8
+#EXTINF:0,Prime Asia HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3043.m3u8
+#EXTINF:0,Gramin Drishti
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3044.m3u8
+#EXTINF:0,Tamil Janam
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3045.m3u8
+#EXTINF:0,BVG
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3048.m3u8
+#EXTINF:0,TNI Awaaz
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3049.m3u8
+#EXTINF:0,Indian News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3050.m3u8
+#EXTINF:0,Shresth Bharat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3052.m3u8
+#EXTINF:0,TNP News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3053.m3u8
+#EXTINF:0,RDC Movies
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3054.m3u8
+#EXTINF:0,Q Toonz
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3055.m3u8
+#EXTINF:0,News Capital Gujarat
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3058.m3u8
+#EXTINF:0,Thanthi One
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3059.m3u8
+#EXTINF:0,Hiff Movies
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3060.m3u8
+#EXTINF:0,Desi Tashan TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3061.m3u8
+#EXTINF:0,Haryana Tashan Music
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3062.m3u8
+#EXTINF:0,PR News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3063.m3u8
+#EXTINF:0,Navsarjan Sanskruti News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3064.m3u8
+#EXTINF:0,Bharat Nation
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3065.m3u8
+#EXTINF:0,Today 24 News UPUK
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3066.m3u8
+#EXTINF:0,India Superfast
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3067.m3u8
+#EXTINF:0,Bharat Update
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3068.m3u8
+#EXTINF:0,Raapchik
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3069.m3u8
+#EXTINF:0,Vistaar News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3070.m3u8
+#EXTINF:0,TV Asia Powered by Shemaroo
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3071.m3u8
+#EXTINF:0,Shree Jagannath TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3072.m3u8
+#EXTINF:0,Ekamra Manoranjan
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3073.m3u8
+#EXTINF:0,Shemaroo Filmy Gaane
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3074.m3u8
+#EXTINF:0,Shemaroo Bollywood
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3075.m3u8
+#EXTINF:0,India Prime News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3076.m3u8
+#EXTINF:0,Sundrani TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3083.m3u8
+#EXTINF:0,Taiwan Plus
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3084.m3u8
+#EXTINF:0,SACH BEDHADAK
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3085.m3u8
+#EXTINF:0,Naxatra News Hindi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3086.m3u8
+#EXTINF:0,Sai TV Telugu
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3087.m3u8
+#EXTINF:0,Sun Neo HD
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3088.m3u8
+#EXTINF:0,Sangam TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3089.m3u8
+#EXTINF:0,KBC News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3090.m3u8
+#EXTINF:0,NDTV Marathi
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3095.m3u8
+#EXTINF:0,News UNI
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3103.m3u8
+#EXTINF:0,Smriti Patra TV
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3104.m3u8
+#EXTINF:0,National Tv India
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3105.m3u8
+#EXTINF:0,Bhakthi Siri
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3107.m3u8
+#EXTINF:0,Garvi Gujarat Gujarati
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3108.m3u8
+#EXTINF:0,NKTV Live
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3109.m3u8
+#EXTINF:0,SB News 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3110.m3u8
+#EXTINF:0,ATV India News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3111.m3u8
+#EXTINF:0,Sanmarg Tv
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3112.m3u8
+#EXTINF:0,Jk Samachar News 24x7
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3113.m3u8
+#EXTINF:0,VST India News
+https://legislative-fathers-demonstration-references.trycloudflare.com/jiotv/app/ts_live_3114.m3u8
+#EXTINF:0,q_90 - w_1920/sources/r1/cms/prod/7430/567430-h.jpg" group-title="@allinone_reborn | STAR",Star Sports 1 HD
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=364
+#EXTINF:0,q_90 - w_1920/sources/r1/cms/prod/7430/567430-h.jpg" group-title="@allinone_reborn | STAR",Star Sports 1 Telugu
+https://allinonereborn.com/dd.m3u8?id=23994
+#EXTINF:0,q_90 - w_1920/sources/r1/cms/prod/7432/567432-h.jpg" group-title="@allinone_reborn | STAR",Star Sports 2 HD
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=366
+#EXTINF:0,q_90 - w_1920/sources/r1/cms/prod/7433/567433-h.jpg" group-title="@allinone_reborn | STAR",Star Sports 1 Hindi HD
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=365
+#EXTINF:0,q_90 - w_1920/sources/r1/cms/prod/7435/567435-h.jpg" group-title="@allinone_reborn | STAR",Star Sports Select 1
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=361
+#EXTINF:0,q_90 - w_1920/sources/r1/cms/prod/7437/567437-h.jpg" group-title="@allinone_reborn | STAR",Star Sports Select 2
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=362
+#EXTINF:0,q_90 - w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="@allinone_reborn | STAR",Star Gold
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=8489
+#EXTINF:0,q_90 - w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="@allinone_reborn | STAR",Star Gold Romance
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=47861
+#EXTINF:0,q_90 - w_1920/sources/r1/cms/prod/7403/567403-h.jpg" group-title="@allinone_reborn | STAR",Star Gold 2
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=247
+#EXTINF:0,q_90 - w_1920/sources/r1/cms/prod/7415/567415-h.jpg" group-title="@allinone_reborn | STAR",Star Plus
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=160
+#EXTINF:0,q_90 - w_1920/sources/r1/cms/prod/7406/567406-h.jpg" group-title="@allinone_reborn | STAR",Star Bharat
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=173
+#EXTINF:0,q_90 - w_1920/sources/r1/cms/prod/7407/567407-h.jpg" group-title="@allinone_reborn | STAR",Star Utsav
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=240
+#EXTINF:0,Disney Cartoon
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=1097
+#EXTINF:0,Star Jalsha HD
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/portal.php?id=2548
+#EXTINF:0,Travelxp HD
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/live.php?id=164&key=JITENDRAUNATTI&e=.m3u8
+#EXTINF:0,GOOD TiMES
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/live.php?id=560&key=JITENDRAUNATTI&e=.m3u8
+#EXTINF:0,GOOD TiMES
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/live.php?id=560&key=JITENDRAUNATTI&e=.m3u8
+#EXTINF:0,Food Food
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/live.php?id=561&key=JITENDRAUNATTI&e=.m3u8
+#EXTINF:0,Travelxp HD Hindi
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/live.php?id=562&key=JITENDRAUNATTI&e=.m3u8
+#EXTINF:0,Kaumudy TV
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/live.php?id=563&key=JITENDRAUNATTI&e=.m3u8
+#EXTINF:0,ETV Abhiruchi
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/live.php?id=565&key=JITENDRAUNATTI&e=.m3u8
+#EXTINF:0,TLC Hindi
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/live.php?id=571&key=JITENDRAUNATTI&e=.m3u8
+#EXTINF:0,TLC English
+http://legislative-fathers-demonstration-references.trycloudflare.com/jio-tv/live.php?id=574&key=JITENDRAUNATTI&e=.m3u8
